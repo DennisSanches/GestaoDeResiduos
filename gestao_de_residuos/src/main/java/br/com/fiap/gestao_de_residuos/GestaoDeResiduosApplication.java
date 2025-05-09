@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GestaoDeResiduosApplication {
 
-	@Autowired 123
+	@Autowired
 	private AgendamentoService agendamentoService;
 
 	@GetMapping
