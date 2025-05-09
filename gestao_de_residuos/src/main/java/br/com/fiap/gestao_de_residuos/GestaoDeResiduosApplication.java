@@ -3,7 +3,7 @@ package br.com.fiap.gestao_de_residuos;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication #
 public class GestaoDeResiduosApplication {
 
 	@Autowired
